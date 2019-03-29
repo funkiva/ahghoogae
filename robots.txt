@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cibareing.estatio.org/sitemap.xml
